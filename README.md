@@ -42,6 +42,14 @@ To run this project you will need to set your environment variables.
 1. Create a new file named `.env` inside the `core` folder
 2. Copy all of the variables inside `core/.template.env` and assign your own values to them
 
+### Create Super User
+
+--> To create super user, we use :
+```bash
+python manage.py createsuperuser
+
+```
+
 ### Running the App
 
 --> To run the App, we use :
