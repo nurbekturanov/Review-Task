@@ -1,6 +1,4 @@
-<div align="center">
-**Review-Task**
-</div>
+### Review-Task
 
 ### Cloning the repository
 
