@@ -51,6 +51,7 @@ python manage.py runserver
 ```
 
 > ⚠ Then, the development server will be started at http://127.0.0.1:8000/api/
-> ⚠ Then, the development server will be started at http://127.0.0.1:8000/api/schema/swagger-ui/
+
+> ⚠ Or you can see swagger-ui apis at http://127.0.0.1:8000/api/schema/swagger-ui/
 
 #
