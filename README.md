@@ -74,4 +74,19 @@ python manage.py runserver
 **Reviews List**
 ![Screenshot (6)](https://github.com/nurbekturanov/Review-Task/assets/133900078/69ca545f-2275-4fcc-9921-a7f684f71012)
 
+#
 
+### Acknowledgements
+I've completed the core functionality of the project, including models for users, reviews, replies and likes, along with API endpoints for fetching review lists and creating reviews.
+#
+I noticed the project specification mentioned using Docker and Docker Compose for containerization. While I wasn't able to implement it in this specific project due to time constraints, I understand the value of containerized deployments.
+- Docker helps create standardized and portable environments for applications across different machines, simplifying deployment and maintenance.
+- It promotes a more modular and independent development process.
+
+I'm eager to learn more about implementing Docker for this project in the future. I can explore online resources or tutorials to get up to speed if needed.
+#
+I see that the project also requires the use of Celery for handling background tasks. I didn't have the opportunity to implement it this time.
+- Celery is a task queue that allows for asynchronous processing of high-volume or time-consuming tasks.
+- By using Celery, the API wouldn't be blocked by lengthy operations, improving responsiveness.
+
+I'm interested in learning how Celery can be integrated into this project to enhance its scalability. I'd be happy to pick it up if I get the opportunity.
