@@ -62,4 +62,16 @@ python manage.py runserver
 
 > ⚠ Or you can see swagger-ui apis at http://127.0.0.1:8000/api/schema/swagger-ui/
 
+> ⚠ You need to login before sending requests to the api endpoints.
+
 #
+
+### Api Preview :
+
+**Swagger UI**
+![Screenshot (5)](https://github.com/nurbekturanov/Review-Task/assets/133900078/024fb099-9488-4305-934e-e8c4946911a9)
+
+**Reviews List**
+![Screenshot (6)](https://github.com/nurbekturanov/Review-Task/assets/133900078/69ca545f-2275-4fcc-9921-a7f684f71012)
+
+
